@@ -9,7 +9,7 @@
 
 ###2014 State Boundary JSON
 
-1.  Procured the zipped 2014 Cartographic State Boundary shapefile from the U.S. Census Bureau.  Selected the lowest resolution file named:  cb_2014_us_state_500k.zip - [2014 Cartographic State BoundaryLocation](https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html)
+1.  Procured the zipped 2014 Cartographic State Boundary shapefile from the U.S. Census Bureau.  Selected the following file:  cb_2014_us_state_500k.zip - [2014 Cartographic State Boundary Location](https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html)
 2.  Loaded the 2014 State Boundary shapefile into PostgreSQL database
 3.  Converted the 2014 State Boundary table into JSON file format
 
