@@ -3,7 +3,7 @@
 
 ###2014 State Population JSON
 
-1.  Procured the Annual Estimates of the Resident Population for the United State, Regions, States, and Puerto Rico:  April 1, 2010 to July 1, 2014 from the U.S. Census Bureau as our 2014 State Population CSV file[2014 State Population](http://www.census.gov/popest/data/state/totals/2014/index.html)
+1.  Procured the Annual Estimates of the Resident Population for the United State, Regions, States, and Puerto Rico:  April 1, 2010 to July 1, 2014 from the U.S. Census Bureau as our 2014 State Population CSV file  [2014 State Population](http://www.census.gov/popest/data/state/totals/2014/index.html)
 2.  Loaded the 2014 State Population CSV file into PostgreSQL database
 3.  Converted the 2014 State Population table into JSON file format
 
